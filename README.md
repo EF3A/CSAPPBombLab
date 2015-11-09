@@ -2,7 +2,7 @@
 
 # Attention CMU Students!
 
-It is a violation to your University's regulation to read my solution if you are or will be enrolled in 15-213.  
+It is a violation to your University's regulation to read my solution if you are or will be enrolled in 15-213, or other code-shared courses.  
 
 This is an x86-64 bomb for self-study students. 
 
